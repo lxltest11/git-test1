@@ -9,5 +9,6 @@ public class TestDemo {
         System.out.println("push2");
         System.out.println("pull");
         System.out.println("pull local");
+        System.out.println("pull remote");
     }
 }
