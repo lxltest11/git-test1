@@ -7,5 +7,6 @@ public class TestDemo {
         System.out.println("hot-fix1");
         System.out.println("push");
         System.out.println("push2");
+        System.out.println("pull");
     }
 }
