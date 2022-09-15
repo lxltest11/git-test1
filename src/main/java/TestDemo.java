@@ -5,5 +5,6 @@ public class TestDemo {
         System.out.println("hot-fix");
         System.out.println("master");
         System.out.println("hot-fix1");
+        System.out.println("push");
     }
 }
